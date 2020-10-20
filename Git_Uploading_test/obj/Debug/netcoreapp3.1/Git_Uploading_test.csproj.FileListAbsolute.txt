@@ -1,0 +1,13 @@
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.exe
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.deps.json
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.runtimeconfig.json
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.runtimeconfig.dev.json
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.dll
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\bin\Debug\netcoreapp3.1\Git_Uploading_test.pdb
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.csprojAssemblyReference.cache
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.AssemblyInfoInputs.cache
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.AssemblyInfo.cs
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.csproj.CoreCompileInputs.cache
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.dll
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.pdb
+C:\Users\Gurpreet\Source\Repos\Git_Uploading_test\Git_Uploading_test\obj\Debug\netcoreapp3.1\Git_Uploading_test.genruntimeconfig.cache
